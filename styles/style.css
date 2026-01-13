@@ -188,7 +188,13 @@ main > section {
 .sponsor-companies img {
   filter: grayscale(100%);
 }
-
+footer p {
+  text-align: center;
+  background-color: #fff4e7;
+  margin: 130px 100px;
+  padding: 38px;
+  border-radius: 8px;
+}
 @media screen and (max-width: 576px) {
   .navbar,
   .nav-link,
